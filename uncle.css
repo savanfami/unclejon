@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+}
+*body{
+    width: 100%;
+}
+
+nav{
+    width: 100%;
+  height: 68px;
+    background-color:#fff;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    position: fixed;
+
+}
+.container{
+    margin:0;
+}
+.logo{
+    cursor: pointer;
+    margin-left: 165px;
+    height: 65px;
+    width: 150px;
+}
+nav ul{
+    width: 100%;
+    text-align: center;
+    margin-left: 250px;
+    }
+nav ul li{
+    margin: 25px;
+    display: inline-block;
+   
+    font-family: 'Poppins',sans-serif;
+    text-decoration: none;
+    font-size: 16px;   
+}
+nav ul li a{
+    color:#333;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color:red;
+    text-decoration: underline;
+    line-height: 10px;
+
+}
+.second-space{
+    width: 100%;
+    object-fit: cover ;
+
+    background-size: cover;
+}
+.image{
+    width: 100%;
+    margin-top: 10px;
+    background-size: cover;
+
+}
+.third-space{
+    background-color:#faf6f5;
+    width: 100%;
+    height: 395px;
+    margin-top:-4px;
+    display: flex;
+    padding-top: 200px;
+    justify-content: space-around;
+}
+.box1{
+    background-color:#f2e4cf;  
+    width: 410px;
+    height: 356px;
+    margin-left: 100px;
+}
+
+
+.box2{
+    background-color:#f2e4cf;  
+    width: 410px;
+    height: 356px;
+}
+    
+
+.box3{
+    background-color:#f2e4cf;
+    width: 410px;
+    height: 356px;
+    margin-right: 100px;
+}
+.img1{
+    width: 290px;
+    height: 250px;
+    margin-top: 65px;
+    margin-left: 18px;
+}
+.img2{
+    width: 290px;
+    height: 250px;
+    margin-top: 65px;
+    margin-left: 18px;
+}
+.img3{
+    width: 290px;
+    height: 250px;
+    margin-top: 65px;
+    margin-left: 18px;
+}
+.button1{
+    height: 60px;
+    width: 410px;
+    background-color:#0052a1;
+    color:#fff;
+    font-size: 17px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    border:none;
+}
+.button1:hover{
+    background-color: red;
+    cursor: pointer;
+}
+.fourth-space{
+    background-color:#faf6f5;
+    width: 100%;
+    height: 380px;
+    margin-top:-4px;
+    display: flex;
+    padding-top: none;
+    justify-content: space-around;
+}
+.fifth-space{
+    height: 80px;
+    width: 93.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#faf6f5;
+    padding: 50px;
+
+
+}
+.btn2{
+   color:#fff;
+   background-color: #ed1b24;
+    height: 50px;
+    width: 160px;
+    border:none;
+    margin-top: -80px;
+    font-family:'Poppins',sans-serif;
+    font-size:15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* margin-right: 165px; */
+    
+}
+.btn2:hover{
+    background-color:blue;
+    cursor: pointer;
+}
+.fifth-space img{
+    height:25px;
+    width:25px;
+}
+.buttonclass{
+    display: flex;
+}
+.sixthbody{
+    width: 100%;
+    height: 400px;
+    
+}
+.right-section{
+    width: 40%;
+    height: 400px;
+    float: left;
+    background-color: #f2e4cf;
+}
+.left-section{
+    float:left;
+    width: 60%;
+    height:400px;
+    background-color:#f2e4cf;
+    
+
+}
+.para{
+    color: #0052a1;
+    font-size: 25px;
+    font-family: 'Poppins',sans-serif;
+    line-height: 50px;
+}
+.para1{
+    color:red;
+    font-size: 30px;
+    font-family:'Poppins',sans-serif;
+    line-height: 60px;
+}
+.para3{
+    font-size: 20px;
+    font-family: 'Poppins',sans-serif;
+}
+.inner-left{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.btn4{
+    color:#fff;
+    background-color: #ed1b24;
+     height: 50px;
+     width: 160px;
+     border:none;
+     margin-top: 18px;
+     font-family:'Poppins',sans-serif;
+     font-size:15px;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     margin-right: 165px;
+     
+ }
+ .btn4:hover{
+     background-color:blue;
+     cursor: pointer;
+ }
+.imgfoot{
+    height: 400px;
+    margin-left: 90px;
+}
+.footer{
+    height: 180px;
+    width: 100%;
+    background-color:#faf6f5;
+}
+
+.footicon1{
+width: 50px;
+margin-left: 600px;
+    margin-top: 44px;
+}
+.footicon2{
+width: 50px;
+}
+.footicon3{
+  width: 50px;
+}
+.footicon4{
+   width: 50px;
+}
+.pfoot{
+    margin-left: 582px;
+    margin-top: 10px;
+}
+.imgklast{
+    width: 50px;
+    margin-left: 1423px;
+    margin-top: -10px;
+}
+
